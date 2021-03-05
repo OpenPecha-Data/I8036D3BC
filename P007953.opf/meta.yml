@@ -1,15 +1,16 @@
-id: opecha:P007953
+id: P007953
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1017511
   title: བཤད་རྒྱུད་ཀྱི་འགྲེལ་ཆེན་དྲི་མེད་ཀུན་གསལ
-  volume:
+  author: ''
+  volumes:
     209aea0c32ee4e51aeb6617a81ef6a49:
       image_group_id: I1PD454
       title: Volume 1 of bshad rgyud kyi 'grel chen dri med kun gsal
       volume_number: 1
       total_pages: 634
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བཤད་རྒྱུད་ཀྱི་འགྲེལ་ཆེན་དྲི་མེད་ཀུན་གསལ
   author: ''
