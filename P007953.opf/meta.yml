@@ -5,11 +5,12 @@ source_metadata:
   title: བཤད་རྒྱུད་ཀྱི་འགྲེལ་ཆེན་དྲི་མེད་ཀུན་གསལ
   author: ''
   volumes:
-    f37870c87c00492999906c84199bfe87:
+    209aea0c32ee4e51aeb6617a81ef6a49:
       image_group_id: I1PD454
-      title: ''
+      title: Volume 1 of bshad rgyud kyi 'grel chen dri med kun gsal
       volume_number: 1
       total_pages: 634
+      base_file: v001.txt
 ebook_metadata:
   title: བཤད་རྒྱུད་ཀྱི་འགྲེལ་ཆེན་དྲི་མེད་ཀུན་གསལ
   author: ''
