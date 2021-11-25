@@ -1,5 +1,7 @@
 id: P007953
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W00EGS1017511
   title: བཤད་རྒྱུད་ཀྱི་འགྲེལ་ཆེན་དྲི་མེད་ཀུན་གསལ
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 634
       base_file: v001.txt
-ebook_metadata:
-  title: བཤད་རྒྱུད་ཀྱི་འགྲེལ་ཆེན་དྲི་མེད་ཀུན་གསལ
-  author: ''
-  sku: P007953
-  cover: cover.jpg
-  layers:
-  - pagination
